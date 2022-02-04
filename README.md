@@ -18,6 +18,9 @@ Therefore, the fonts in pbf inherit that license.
 # URL of PBF fonts
 https://unvt.github.io/nsft/fonts/{font_name}
 
+PBF Fonts are not necessarily tested in the actual webmap. 
+Those who use the fonts are regare to acknowledge that THE PBF FONTS ARE PROVIDED "AS IS", WITHOUT ANY WARRANTY.
+
 # Source (ttf) URL
 - Noto Sans https://www.fontsquirrel.com/fonts/noto-sans
 - Noto Sans Display https://fontstorage.com/font/google/noto-sans-display
