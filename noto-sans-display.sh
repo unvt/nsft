@@ -1,0 +1,1 @@
+for f in src/notosansdisplay/*.ttf; do mkdir fonts/`basename ${f} .ttf`; ./node-fontnik/bin/build-glyphs src/notosansdisplay/`basename ${f}` fonts/`basename ${f} .ttf`; date; echo  `basename ${f}`;done
