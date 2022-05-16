@@ -25,5 +25,13 @@ Those who use the fonts are regare to acknowledge that THE PBF FONTS ARE PROVIDE
 - Noto Sans https://www.fontsquirrel.com/fonts/noto-sans
 - Noto Sans Display https://fontstorage.com/font/google/noto-sans-display
 
+Later, I found that some launguage might be missed in the above packages.
+
+# Source 2 (ttf)
+- Noto Sans https://fonts.google.com/noto/specimen/Noto+Sans
+- Noto Sans Display https://fonts.google.com/noto/specimen/Noto+Sans+Display
+
+
+
 
 
